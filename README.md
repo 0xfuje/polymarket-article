@@ -3,4 +3,4 @@
 
 👨‍💻 Part of the Codeless Conduct Hackathon - Open Track Marketing bounty
 
-🚧 Work in progress! Article will be posted on medium before the submission deadline
+🏁 Work finished. Article published on Medium Coinmonks publication: https://medium.com/coinmonks/how-to-use-polymarket-9ee1577fd671
